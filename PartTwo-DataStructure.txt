@@ -1,0 +1,7 @@
+You're creating a project management application and constantly need to work with the days of the week.
+Given this function, write a structure that will allow you to run the following function as is to determime whether the day is a weekday or weekend.
+
+
+function myDay (scheduled:Days): void {
+    scheduled <= 5 ? console.log("weekday") : console.log("weekend")
+}

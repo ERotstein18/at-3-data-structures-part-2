@@ -1,0 +1,12 @@
+The coordinates for Timbuktu are 16.7666Â° N, 3.0026Â° W. You also know that a positive latitude is North and negative is South, and that a positive longitude is West and negative is East.
+
+When coding with coordinates, how do you think you would want to work with them in JavaScript?
+
+Create an example of the coordinates for Timbuktu written typed as the following:
+
+An array
+A tuple
+An enum
+An object with lat and long properties
+An interface
+An alias
