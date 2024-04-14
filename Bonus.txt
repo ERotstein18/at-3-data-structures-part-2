@@ -1,0 +1,8 @@
+Write a TypeScript class for application users. 
+Create a subclass for application Administrators. 
+All users should be able to read content.
+
+Administrators should also be able to edit content.
+
+You can make the classes very general without full functionality. 
+Then create at least one instance of an application user and an administrator.

@@ -1,0 +1,14 @@
+1. Build an application that pulls in country data as objects and then you work with this object repeatedly throughout your application. 
+2. Create and type two country objects that include the name, capital, and population. 
+3. Additionally, create a function that takes in a country as an argument. 
+4. Try typing the objects explicitly, as well as typing them with an interface and an alias. 
+5. Then pass them into the function.
+
+
+Output
+Name: United States
+Capital: Washington, D.C.
+Population: 331002651
+Name: Philippines
+Capital: Manila
+Population: 109581085
